@@ -141,8 +141,8 @@ clearest	0.5
 big	0.3
 bigger	0.2
 biggest	0.5
-obvious 0.3
-serious 0.3
+obvious	0.03
+serious	0.3
 deep	0.3
 deeper	0.2
 deepest	0.5
@@ -172,7 +172,7 @@ slight	-0.5
 slightest	-0.9
 insignificant	-0.5
 inconsequential	-0.5
-low -2
+low	-2
 lower	-1.5
 lowest	-3
 few	-2
@@ -187,7 +187,7 @@ a_few	-0.3
 a_couple	-0.3
 a_couple_of	-0.3
 a_lot_of	0.3
-lots_of		0.3
+lots_of	0.3
 at_all	-0.5
 a_great_deal_of	0.5
 a_whole_lot_of	0.5
@@ -203,7 +203,7 @@ a_bunch_of	0.3
 bunches_of	0.3
 plenty_of	0.3
 a_certain_amount_of	-0.2
-some -0.2
+some	-0.2
 a_little_bit_of	-0.5
 a_bit_of	-0.5
 a_bit_of_a	-0.5
@@ -214,4 +214,3 @@ nowhere_near	-3
 not_all_that	-1.2
 not_that	-1.5
 out_of	-2
-
